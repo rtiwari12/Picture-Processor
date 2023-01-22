@@ -1,3 +1,0 @@
-image image-horizontalFlip
-
-image image-verticalFlip

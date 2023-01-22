@@ -1,3 +1,0 @@
-image image-blurFilter
-
-image image-sharpenFilter
