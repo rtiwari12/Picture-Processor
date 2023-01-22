@@ -1,0 +1,13 @@
+image image-redGreyscale
+
+image image-greenGreyscale
+
+image image-blueGreyscale
+
+image image-maxValueGreyscale
+
+image image-lumaGreyscale
+
+image image-intensityGreyscale
+
+image image-sepiaTone

@@ -1,0 +1,7 @@
+test/testSavePPMImage.ppm image
+
+test/testSavePNGImage.png image
+
+test/testSaveBMPImage.bmp image
+
+test/testSaveJPEGImage.jpg image
