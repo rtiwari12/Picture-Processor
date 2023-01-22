@@ -1,0 +1,7 @@
+test/image.ppm testLoadPPMImage
+
+test/image.png testLoadPNGImage
+
+test/image.bmp testLoadBMPImage
+
+test/image.jpg testLoadJPEGImage
